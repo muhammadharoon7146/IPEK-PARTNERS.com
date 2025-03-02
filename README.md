@@ -8,6 +8,8 @@
 
 Welcome to Ipek & Partners, a modern and dynamic real estate platform designed to provide an exceptional user experience. Our website integrates cutting-edge technology to offer seamless property management, buying, selling, and rental services. With an intuitive interface and modern functionalities, we ensure that clients and investors have a hassle-free journey in finding their dream property.
 
+
+
 **Features**
 
 
@@ -34,4 +36,16 @@ Welcome to Ipek & Partners, a modern and dynamic real estate platform designed t
 
 
 
-![rental](https://github.com/user-attachments/assets/8cb4c524-fe63-4695-a033-1d1441282c1f)
+![screencapture-file-C-Users-PMLS-Downloads-Ipet-and-partners-index-html-2025-03-02-13_38_53](https://github.com/user-attachments/assets/ae1a918b-42db-4fae-9891-127153b29b35)
+
+
+
+
+
+
+
+
+
+![screencapture-file-C-Users-PMLS-Downloads-Ipet-and-partners-about-html-2025-03-02-13_39_14](https://github.com/user-attachments/assets/7569b49d-8d02-4b1a-96e4-07aaa1c203e0)
+
+
